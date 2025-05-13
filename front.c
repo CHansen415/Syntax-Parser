@@ -28,7 +28,6 @@ static void getNonBlank();
 /* main driver */
 int main(int argc, char *argv[]) 
 {
-    printf("Cooke Parser :: R11706114\n");
     /* Open the input data file and process its contents */
     if(argc < 2){
         exit(2);
